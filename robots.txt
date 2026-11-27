@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maxtemat.github.io/script-consulting/sitemap.xml
+Sitemap: https://maxtemat.github.io/sitemap.xml
