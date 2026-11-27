@@ -2,11 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://maxtemat.github.io/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <image:image><image:loc>https://maxtemat.github.io/images/logo-script-consulting-512.png</image:loc><image:title>Logo Script Consulting</image:title></image:image>
   </url>
   <url>
     <loc>https://maxtemat.github.io/script-consulting/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-ventes-crm.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-achats-stock.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-comptabilite-facturation.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-rh-employes.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-fabrication-projets.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-ecommerce-boutiques.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/modules-odoo-sur-mesure.html</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://maxtemat.github.io/script-consulting/odoo-formation-support-migration.html</loc>
+    <lastmod>2026-11-27</lastmod>
   </url>
 </urlset>
